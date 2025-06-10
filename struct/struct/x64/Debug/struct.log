@@ -1,0 +1,6 @@
+﻿  struct04.c
+  stuct03.c
+  正在生成代码...
+D:\Develop\Visual Studio\C\struct\struct04.c(16,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Develop\Visual Studio\C\struct\struct04.c(28,5): warning C4101: “temp”: 未引用的局部变量
+  struct.vcxproj -> D:\Develop\Visual Studio\C\struct\x64\Debug\struct.exe

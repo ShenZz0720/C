@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\Visual Studio\\C\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F571925-C16A-4D62-988B-B24B6F265B1F}|HelloWorld\\HelloWorld.vcxproj|D:\\Develop\\Visual Studio\\C\\HelloWorld\\HelloWorld\\Hello_World.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F571925-C16A-4D62-988B-B24B6F265B1F}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Hello_World.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F571925-C16A-4D62-988B-B24B6F265B1F}|HelloWorld\\HelloWorld.vcxproj|D:\\Develop\\Visual Studio\\C\\HelloWorld\\HelloWorld\\\u8F93\u51FA\u5E38\u91CF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F571925-C16A-4D62-988B-B24B6F265B1F}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\\u8F93\u51FA\u5E38\u91CF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u8F93\u51FA\u5E38\u91CF.c",
+              "DocumentMoniker": "D:\\Develop\\Visual Studio\\C\\HelloWorld\\HelloWorld\\\u8F93\u51FA\u5E38\u91CF.c",
+              "RelativeDocumentMoniker": "HelloWorld\\\u8F93\u51FA\u5E38\u91CF.c",
+              "ToolTip": "D:\\Develop\\Visual Studio\\C\\HelloWorld\\HelloWorld\\\u8F93\u51FA\u5E38\u91CF.c",
+              "RelativeToolTip": "HelloWorld\\\u8F93\u51FA\u5E38\u91CF.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-20T15:19:13.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello_World.c",
+              "DocumentMoniker": "D:\\Develop\\Visual Studio\\C\\HelloWorld\\HelloWorld\\Hello_World.c",
+              "RelativeDocumentMoniker": "HelloWorld\\Hello_World.c",
+              "ToolTip": "D:\\Develop\\Visual Studio\\C\\HelloWorld\\HelloWorld\\Hello_World.c",
+              "RelativeToolTip": "HelloWorld\\Hello_World.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-20T15:10:49.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

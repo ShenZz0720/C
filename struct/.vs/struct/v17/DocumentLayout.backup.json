@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\Visual Studio\\C\\struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73975B50-6F76-4BE9-8D90-027AB65E8EB6}|struct.vcxproj|D:\\Develop\\Visual Studio\\C\\struct\\struct04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73975B50-6F76-4BE9-8D90-027AB65E8EB6}|struct.vcxproj|solutionrelative:struct04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73975B50-6F76-4BE9-8D90-027AB65E8EB6}|struct.vcxproj|D:\\Develop\\Visual Studio\\C\\struct\\struct01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73975B50-6F76-4BE9-8D90-027AB65E8EB6}|struct.vcxproj|solutionrelative:struct01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73975B50-6F76-4BE9-8D90-027AB65E8EB6}|struct.vcxproj|D:\\Develop\\Visual Studio\\C\\struct\\stuct03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73975B50-6F76-4BE9-8D90-027AB65E8EB6}|struct.vcxproj|solutionrelative:stuct03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73975B50-6F76-4BE9-8D90-027AB65E8EB6}|struct.vcxproj|D:\\Develop\\Visual Studio\\C\\struct\\struct02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73975B50-6F76-4BE9-8D90-027AB65E8EB6}|struct.vcxproj|solutionrelative:struct02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "struct04.c",
+              "DocumentMoniker": "D:\\Develop\\Visual Studio\\C\\struct\\struct04.c",
+              "RelativeDocumentMoniker": "struct04.c",
+              "ToolTip": "D:\\Develop\\Visual Studio\\C\\struct\\struct04.c",
+              "RelativeToolTip": "struct04.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-26T11:53:55.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stuct03.c",
+              "DocumentMoniker": "D:\\Develop\\Visual Studio\\C\\struct\\stuct03.c",
+              "RelativeDocumentMoniker": "stuct03.c",
+              "ToolTip": "D:\\Develop\\Visual Studio\\C\\struct\\stuct03.c",
+              "RelativeToolTip": "stuct03.c",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-26T11:41:43.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "struct02.c",
+              "DocumentMoniker": "D:\\Develop\\Visual Studio\\C\\struct\\struct02.c",
+              "RelativeDocumentMoniker": "struct02.c",
+              "ToolTip": "D:\\Develop\\Visual Studio\\C\\struct\\struct02.c",
+              "RelativeToolTip": "struct02.c",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-26T11:13:53.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "struct01.c",
+              "DocumentMoniker": "D:\\Develop\\Visual Studio\\C\\struct\\struct01.c",
+              "RelativeDocumentMoniker": "struct01.c",
+              "ToolTip": "D:\\Develop\\Visual Studio\\C\\struct\\struct01.c",
+              "RelativeToolTip": "struct01.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-26T11:01:22.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
